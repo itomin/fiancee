@@ -1,0 +1,5 @@
+
+data/*
+*.html	
+.ipynb_checkpoints/*
+*.csv
