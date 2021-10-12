@@ -64,3 +64,6 @@ def compound_fixed(initial_payment, regular_payment, interest_rate, n,m=1):
         balance.append(fv)
     return balance[1:]
     
+
+def ear(yearly_interest, rate):
+    return (yearly_interest / rate)**rate
