@@ -1,6 +1,7 @@
 
 import math 
 
+
 # Future value of money
 # Given you invest pval today at a certain rate r
 # what is the future value of that in n periods
